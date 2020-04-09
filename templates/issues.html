@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+        <h1 class="display-4">We've got <strong>issues</strong></h1>
+        <p>...and you're going to hear about them.</p>       
+    </div>
+</div>
+<div>
+    <p>First issue is that whole lack of web design and front end coding skills.</p>
+    <p>Second is that boy is everything public and unencrypted right now. Post with caution.</p>
+    <p>Source control?</p>
+    <p>What database do folks want to use?</p>
+</div>
+
+<script>$('#issues').addClass('text-warning')</script>
+
+{% endblock content %}
