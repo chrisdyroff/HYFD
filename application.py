@@ -14,6 +14,16 @@ posts = [
     'author': 'p.',
     'title': 'Blog Post 2',
     'content': 'By fire or fire'
+},
+{
+    'author': 'p.',
+    'title': 'Seamus Heaney',
+    'content': '''To be carried back to the shrine some dawn
+    when the sea spreads its far sun crops to the South
+    and I make my morning offering again:
+    that I may escape the miasma of spilled blood,
+    govern the tongue, fear hybris, fear the god,
+    until he speaks in my untrammelled mouth'''
 }
 
 ]
